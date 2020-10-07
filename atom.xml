@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Gzao.github.io</id>
     <title>Gridea</title>
-    <updated>2020-10-07T04:43:40.405Z</updated>
+    <updated>2020-10-07T04:53:50.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Gzao.github.io"/>
     <link rel="self" href="https://Gzao.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://Gzao.github.io/images/avatar.png</logo>
     <icon>https://Gzao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Beginning]]></title>
+        <id>https://Gzao.github.io/post/beginning/</id>
+        <link href="https://Gzao.github.io/post/beginning/">
+        </link>
+        <updated>2020-10-07T04:46:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>就 <strong>决心</strong> 写点东西。<br>
+考虑了很多种方式，最后还是决定自己搭个blog来写，写一些不针对特定读者的 <s>伤痕文淆</s> 个中故事。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>就 <strong>决心</strong> 写点东西。<br>
+考虑了很多种方式，最后还是决定自己搭个blog来写，写一些不针对特定读者的 <s>伤痕文淆</s> 个中故事。</p>
+<!-- more -->
+<!-- more -->
+<p>多少希望留点以后能读的小品。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Gzao.github.io/post/hello-gridea/</id>
